@@ -14,4 +14,4 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
 
-"Estudante de Engenharia de Software na Universidade São Judas Tadeu (USJT), atualmente no 4º semestre. Tenho experiência em desenvolvimento Java, uso básico de MySQL para banco de dados, e conhecimentos em HTML5 e CSS. Apaixonado por tecnologia, busco aprimorar minhas habilidades em programação e contribuir para projetos inovadores."
+Estudante de Engenharia de Software na Universidade São Judas Tadeu (USJT), atualmente no 4º semestre. Tenho experiência em desenvolvimento Java, uso básico de MySQL para banco de dados, e conhecimentos em HTML5 e CSS. Apaixonado por tecnologia, busco aprimorar minhas habilidades em programação e contribuir para projetos inovadores.
